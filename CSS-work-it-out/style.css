@@ -1,0 +1,31 @@
+img{
+    height: 150px;
+}
+description{
+    font-size: 20px;
+}
+.workout-time{
+    font-weight: bold;
+}
+.equipment li{
+    list-style: square;
+}
+.time{
+    color: gray;
+}
+.citation{
+    color: seagreen;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: peachpuff;
+}
+h1{
+    color: pink;
+}
+h2{
+    color: pink;
+}
+h4{
+    color: purple;
+}
